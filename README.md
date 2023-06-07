@@ -1,9 +1,9 @@
 # blockchain
 
-Command to run__ 
+Command to run  
 RUST_LOG=info cargo run
 
-acceptable commands__  
-ls p__ 
-ls c__ 
+acceptable commands   
+ls p  
+ls c  
 create b<data>
